@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I'm a full-stack software engineer who is looking to create web applications with engaging user-experiences.
 - :zap: In my free time, I like to play League of Legends, indie games, do yoga, and explore SF restaurants.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-michelle-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/michelle-chung-3a915a134/])
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-michelle-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-chung-3a915a134/)
   
 --- 
 
