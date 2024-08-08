@@ -2,12 +2,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNweTZnd3U0amo3YmdnN3pjbzZhOHVid2FscDlzdnNkcXpuMTJtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/michelle-chung-3a915a134/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <div id="profile-count" align="center">
   <img src="https://komarev.com/ghpvc/?username=michellechung099&style=flat-square&color=blue" alt=""/>  
 </div>
