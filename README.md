@@ -47,9 +47,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="" width="40" height="40"/>&nbsp; 
 </div>
 
---- 
-
-### :fire: My Stats : 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellechung099&show_icons=true&count_private=true&theme=algolia)
-
-
